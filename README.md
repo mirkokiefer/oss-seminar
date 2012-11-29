@@ -1,4 +1,5 @@
-#Learning from Open Source Software in commercial software development
+#Learning from Open Source Software
+##Changing paradigms in software development
 ###Abstract
 ####Software characeristics being subject of change
 Software architecture - for example a switch from desktop to web-based applications or the replacement of tightly coupled interfaces with a distributed architecture.
@@ -25,3 +26,11 @@ Linus Torvalds developed git, a distributed content tracker, to replace the patc
 This allowed for the transition from a push based to a pull based development system. A pull based system is exactly what lean software development suggests.  
 Today, git empowers millions of open source developers in the world to follow this approach.  
 Github, as a platform based on git, led to an explosion of open source collaboration in the last few years.
+
+###Presentations
+* [Interim Presentation at Heidelberg University, 2012-11-15](https://github.com/mirkok/oss-seminar/blob/master/interim-presentation%20changing%20paradigms.pdf)
+
+###Resources
+* [Relevant papers](https://github.com/mirkok/oss-seminar/tree/master/resources)
+* [Linus Torvals on SCM](http://marc.info/?l=linux-kernel&m=111288700902396)
+* [Lean Startup Principles](http://theleanstartup.com/principles)
