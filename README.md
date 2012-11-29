@@ -28,7 +28,7 @@ Today, git empowers millions of open source developers in the world to follow th
 Github, as a platform based on git, led to an explosion of open source collaboration in the last few years.
 
 ###Presentations
-* [Interim Presentation at Heidelberg University, 2012-11-15](https://github.com/mirkok/oss-seminar/blob/master/interim-presentation%20changing%20paradigms.pdf)
+* [Interim presentation at Heidelberg University, 2012-11-15](https://github.com/mirkok/oss-seminar/blob/master/interim-presentation%20changing%20paradigms.pdf)
 
 ###Resources
 * [Relevant papers](https://github.com/mirkok/oss-seminar/tree/master/resources)
